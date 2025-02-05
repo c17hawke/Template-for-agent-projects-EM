@@ -1,4 +1,1 @@
-notebook
-ipywidgets
-tqdm
-python-dotenv
+# add your requirements with version of each package here
